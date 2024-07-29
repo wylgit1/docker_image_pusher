@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 nginx
 mysql
+gcr.io/google-samples/hello-app:1.0
