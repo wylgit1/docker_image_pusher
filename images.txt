@@ -1,1 +1,1 @@
-jenkins/jenkins:2.492.1-lts
+java17:17.0.4
