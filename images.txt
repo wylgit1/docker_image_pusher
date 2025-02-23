@@ -1,1 +1,2 @@
-hzkjhub/java17:17.0.4
+postgres:13-alpine3.20
+sonarqube:lts-community
